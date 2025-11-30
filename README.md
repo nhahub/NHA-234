@@ -34,6 +34,16 @@ It aims to:
 - **PyAudio / Playsound** for audio alerts (Optional)
 
 ---
+## Data 
+- Drowsiness :
+  1- https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
+  2- https://drive.google.com/drive/folders/1iknet8ImRTlQkcPCQYEr4F9nt3DS-JJ1
+
+- Behaivior
+  1- https://universe.roboflow.com/alora-jubkn/ultilmate5-dbkgs
+  (V1)
+
+--
 ## How to Run the Web Application
 
 1. Download the entire Driver Monitoring System folder.
