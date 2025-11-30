@@ -32,3 +32,32 @@ It aims to:
 - **Yolo** for detection and classification
 - **Matplotlib/ Seaborn** for visualizations
 - **PyAudio / Playsound** for audio alerts (Optional)
+
+---
+## How to Run the Web Application
+
+1. Download the entire Driver Monitoring System folder.
+
+2. Open the project in VS Code.
+
+3. Navigate to the backend folder:
+   ```sh
+   cd model_server
+   ```
+
+4. Install all required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+5. Run the Flask application:
+   ```sh
+   python inference.py
+   ```
+
+6. Start the frontend:
+   - Use "Go Live" in VS Code (Live Server extension)
+   - Open the file:
+     ```sh
+     frontend/first.html
+     ```
